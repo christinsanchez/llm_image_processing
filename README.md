@@ -36,13 +36,7 @@ The `prompt_llm_christin.py` script requires an OpenAI API key. Replace the exis
 
 ## How to Run
 
-To execute the scripts, use the provided `run.sh` script.
-
-```bash
-bash run.sh
-```
-
-Alternatively, you can manually run them:
+ manually run them:
 
 ```bash
 python data_pipeline_christin.py
